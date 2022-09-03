@@ -2,7 +2,7 @@
 
 <img src="https://internetofbusiness.com/wp-content/uploads/2016/02/big-data-opportunity-300x146.jpg" width="500px">
 
-## Tools i use
+## Tools I use
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
