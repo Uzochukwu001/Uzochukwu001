@@ -5,9 +5,8 @@
 
 <img src="https://internetofbusiness.com/wp-content/uploads/2016/02/big-data-opportunity-300x146.jpg" width="500px">
 
-- 🌱 I’m currently learning *Microsoft Power BI*
 
-- 💬 Ask me about *SQL,Power BI, Python, Azure etc*
+- 💬 Ask me about *Spreadsheets, SQL, Microsoft Power BI, Python, MS SQL Server, Microsoft Azure etc*
 
 - ⚡ Fun fact *I am a jovial person, an introvert and loves to enjoy the company of friends.*
 
