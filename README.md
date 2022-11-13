@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzochukwu Vincent Onwuegbu</h1>
-<h3 align="center">A passionate Data Engineer from Nigeria.</h3>
+<h3 align="center">An enthusiastic Data Engineering trainee and an astute Data Analyst from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzochukwu001&label=Profile%20views&color=0e75b6&style=flat" alt="uzochukwu001" /> </p>
 
