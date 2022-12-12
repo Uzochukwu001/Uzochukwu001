@@ -6,9 +6,9 @@
 <img src="https://internetofbusiness.com/wp-content/uploads/2016/02/big-data-opportunity-300x146.jpg" width="500px">
 
 
-- 💬 Ask me about *Spreadsheets, SQL, Microsoft Power BI, Python, MS SQL Server, Microsoft Azure etc*
+- 💬 Ask me about *Spreadsheets, SQL,Tableau, Microsoft Power BI,R, Python, MS SQL Server, Microsoft Azure etc*
 
-- ⚡ Fun fact *I am a jovial person, an introvert and love to enjoy the company of friends.*
+- ⚡ Fun fact: *I am a jovial person, an introvert and love to enjoy the company of friends.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
